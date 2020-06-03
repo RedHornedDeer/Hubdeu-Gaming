@@ -1,0 +1,14 @@
+code=1057231105 #door passcode
+entered=input(int("Enter Code"))
+if entered==code
+  print("Access Granted")
+else
+  print("Access Denied")
+
+
+
+
+
+
+
+
